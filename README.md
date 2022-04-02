@@ -1,5 +1,6 @@
 ### Hi 👋, I'm wolfram1293
 
+I am a first-year master's student at the University of Tokyo. 
 
 <p align="left"> 
   <a href="https://github.com/wolfram1293">
