@@ -22,6 +22,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wolfram1293&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="wolfram1293" /></a> </p>
 
+[![](https://github-readme-streak-stats.herokuapp.com/?user=wolfram1293)](https://github-readme-streak-stats.herokuapp.com/?user=wolfram1293)
 
 
 
