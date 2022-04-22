@@ -1,4 +1,4 @@
-### Hi 👋, I'm wolfram1293!
+### Hi 👋, I'm wolfram!
 
 I am a first-year master's student at the University of Tokyo. 
 
