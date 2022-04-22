@@ -6,9 +6,6 @@ I am a first-year master's student at the University of Tokyo.
   <a href="https://github.com/wolfram1293">
     <img src="https://komarev.com/ghpvc/?username=wolfram1293&label=Profile%20views&color=0e75b6&style=flat" alt="wolfram1293" />
   </a>
-  <a href="http://twitter.com/wolfram1293">
-    <img height="20" src="https://img.shields.io/twitter/follow/wolfram1293?label=Twitter&logo=twitter&style=flat" />
-  </a>
   <a href="http://qiita.com/wolfram1293">
     <img height="20" src="https://qiita-badge.apiapi.app/s/wolfram1293/posts.svg" />
   </a>
