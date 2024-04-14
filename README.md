@@ -1,7 +1,5 @@
 ### Hi 👋, I'm wolfram!
 
-I am a master's student at the University of Tokyo. 
-
 <p align="left"> 
   <a href="https://github.com/wolfram1293">
     <img src="https://komarev.com/ghpvc/?username=wolfram1293&label=Profile%20views&color=0e75b6&style=flat" alt="wolfram1293" />
